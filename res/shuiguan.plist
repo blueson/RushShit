@@ -4,226 +4,239 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>shuiguan_0_0.png</key>
+            <key>shuiguan0_0.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,550},{180,180}}</string>
+                <string>{{2,292},{28,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_0_1.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{184,818},{180,86}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,47},{180,86}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_0_2.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{366,816},{134,132}}</string>
-                <key>offset</key>
-                <string>{23,24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{46,0},{134,132}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_0_3.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{366,366},{180,134}}</string>
-                <key>offset</key>
-                <string>{0,23}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,134}}</string>
+                <string>{{26,0},{28,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_1_0.png</key>
+            <key>shuiguan0_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{184,548},{180,180}}</string>
+                <string>{{2,166},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_1_1.png</key>
+            <key>shuiguan0_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,732},{180,86}}</string>
+                <string>{{2,322},{54,54}}</string>
+                <key>offset</key>
+                <string>{13,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{26,0},{54,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan0_3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{84,222},{80,54}}</string>
+                <key>offset</key>
+                <string>{0,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan1_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{84,278},{28,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,47},{180,86}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_1_2.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{366,682},{134,132}}</string>
-                <key>offset</key>
-                <string>{23,24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{46,0},{134,132}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_1_3.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{368,184},{180,134}}</string>
-                <key>offset</key>
-                <string>{0,23}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,134}}</string>
+                <string>{{26,0},{28,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_2_0.png</key>
+            <key>shuiguan1_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,368},{180,180}}</string>
+                <string>{{166,84},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_2_1.png</key>
+            <key>shuiguan1_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{184,730},{180,86}}</string>
+                <string>{{84,308},{54,54}}</string>
+                <key>offset</key>
+                <string>{13,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{26,0},{54,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan1_3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{166,166},{80,54}}</string>
+                <key>offset</key>
+                <string>{0,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan2_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{166,264},{28,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,47},{180,86}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_2_2.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{366,548},{134,132}}</string>
-                <key>offset</key>
-                <string>{23,24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{46,0},{134,132}}</string>
-                <key>sourceSize</key>
-                <string>{180,180}</string>
-            </dict>
-            <key>shuiguan_2_3.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{368,2},{180,134}}</string>
-                <key>offset</key>
-                <string>{0,23}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,134}}</string>
+                <string>{{26,0},{28,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_3_0.png</key>
+            <key>shuiguan2_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{184,366},{180,180}}</string>
+                <string>{{84,84},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_3_1.png</key>
+            <key>shuiguan2_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,186},{180,180}}</string>
+                <string>{{166,294},{54,54}}</string>
+                <key>offset</key>
+                <string>{13,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{26,0},{54,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan2_3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{84,166},{80,54}}</string>
+                <key>offset</key>
+                <string>{0,13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{80,54}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan3_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,84},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_3_2.png</key>
+            <key>shuiguan3_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{186,184},{180,180}}</string>
+                <string>{{166,2},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_3_3.png</key>
+            <key>shuiguan3_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{186,2},{180,180}}</string>
+                <string>{{84,2},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{180,180}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>shuiguan_bg.png</key>
+            <key>shuiguan3_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{182,182}}</string>
+                <string>{{2,2},{80,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{182,182}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{182,182}</string>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan_left.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,248},{42,80}}</string>
+                <key>offset</key>
+                <string>{-19,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,80}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
+            </dict>
+            <key>shuiguan_right.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{166,222},{40,80}}</string>
+                <key>offset</key>
+                <string>{20,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{40,0},{40,80}}</string>
+                <key>sourceSize</key>
+                <string>{80,80}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -233,9 +246,9 @@
             <key>realTextureFileName</key>
             <string>shuiguan.pvr.ccz</string>
             <key>size</key>
-            <string>{512,1024}</string>
+            <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a5c39eb7eaa571f5d49943c310877e98:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:f3900b6c545f9727c4aaadf1478dc797:1/1$</string>
             <key>textureFileName</key>
             <string>shuiguan.pvr.ccz</string>
         </dict>
